@@ -1,0 +1,35 @@
+[
+  {
+    "role": "Bachelor in Software Technology",
+    "organisation": "Linnaeus University",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Studied software development methodologies mainly in Java",
+      "Aiming to develop skills and pursue my career primarily in ML"
+    ],
+    "imageSrc": "history/lnu.png"
+  },
+  {
+    "role": "Bachelor in International Business",
+    "organisation": "Linnaeus University",
+    "startDate": "Aug, 2023",
+    "endDate": "Present",
+    "experiences": [
+      "Studying international business practices & techniques",
+      "Aiming to develop a career using business strategies to create innovative products & services"
+    ],
+    "imageSrc": "history/lnu.png"
+  },
+  {
+    "role": "Bachelor in CSE, Specialization in IoT",
+    "organisation": "Kristianstad University",
+    "startDate": "Aug, 2022",
+    "endDate": "Jun, 2023",
+    "experiences": [
+      "Gained experience with embedded systems & microcontroller programming",
+      "Switched to LNU to study software technology & business"
+    ],
+    "imageSrc": "history/hkr.png"
+  }
+]

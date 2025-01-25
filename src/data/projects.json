@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Cookbook Project",
+    "imageSrc": "projects/foofoodora.jpg",
+    "description": "My year-1 project where I worked on a cookbook app.",
+    "skills": ["Java", "JavaFX", "SQL"],
+    "demo": "https://www.youtube.com/playlist?list=PLb5uVXBGaKK-dmBvysAqriTAhpPlp4Ua0",
+    "source": "https://github.com/SuyashMullick/Cookbook-Y1"
+  },
+  {
+    "title": "Movie Recommendation System",
+    "imageSrc": "projects/movie_recc_system.png",
+    "description": "Made using content-based filtering.",
+    "skills": ["Python", "Jupyter", "Streamlit"],
+    "demo": "https://youtu.be/V0vuFb8Vd7A",
+    "source": "https://github.com/SuyashMullick/Movie-recc-system"
+  }
+]

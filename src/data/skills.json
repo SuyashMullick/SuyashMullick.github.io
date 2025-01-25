@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Jupyter",
+    "imageSrc": "skills/jupyter.png"
+  },
+  {
+    "title": "PyTorch",
+    "imageSrc": "skills/pytorch.png"
+  },
+  {
+    "title": "TensorFlow",
+    "imageSrc": "skills/tensorflow.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+  {
+    "title": "MySQL",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "C",
+    "imageSrc": "skills/C.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Streamlit",
+    "imageSrc": "skills/streamlit.png"
+  }
+]
